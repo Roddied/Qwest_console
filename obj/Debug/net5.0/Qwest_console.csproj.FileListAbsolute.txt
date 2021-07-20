@@ -1,0 +1,16 @@
+E:\GitHub\Qwest_console\bin\Debug\net5.0\Qwest_console.exe
+E:\GitHub\Qwest_console\bin\Debug\net5.0\Qwest_console.deps.json
+E:\GitHub\Qwest_console\bin\Debug\net5.0\Qwest_console.runtimeconfig.json
+E:\GitHub\Qwest_console\bin\Debug\net5.0\Qwest_console.runtimeconfig.dev.json
+E:\GitHub\Qwest_console\bin\Debug\net5.0\Qwest_console.dll
+E:\GitHub\Qwest_console\bin\Debug\net5.0\ref\Qwest_console.dll
+E:\GitHub\Qwest_console\bin\Debug\net5.0\Qwest_console.pdb
+E:\GitHub\Qwest_console\obj\Debug\net5.0\Qwest_console.csprojAssemblyReference.cache
+E:\GitHub\Qwest_console\obj\Debug\net5.0\Qwest_console.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Qwest_console\obj\Debug\net5.0\Qwest_console.AssemblyInfoInputs.cache
+E:\GitHub\Qwest_console\obj\Debug\net5.0\Qwest_console.AssemblyInfo.cs
+E:\GitHub\Qwest_console\obj\Debug\net5.0\Qwest_console.csproj.CoreCompileInputs.cache
+E:\GitHub\Qwest_console\obj\Debug\net5.0\Qwest_console.dll
+E:\GitHub\Qwest_console\obj\Debug\net5.0\ref\Qwest_console.dll
+E:\GitHub\Qwest_console\obj\Debug\net5.0\Qwest_console.pdb
+E:\GitHub\Qwest_console\obj\Debug\net5.0\Qwest_console.genruntimeconfig.cache

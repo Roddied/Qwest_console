@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Qwest_console": {
+      "commandName": "Executable",
+      "executablePath": "E:\\GitHub\\Qwest_console\\bin\\Debug\\net5.0\\Qwest_console.exe"
+    }
+  }
+}
